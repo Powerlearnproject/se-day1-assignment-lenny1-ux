@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18540052&assignment_repo_type=AssignmentRepo)
-# SE_Day1_25
+# SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
@@ -111,5 +111,4 @@ Clarity: The improved prompt specifies what is being asked (a full-body portrait
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
 
-![Description](https://raw.githubusercontent.com/lenny1-ux/your-repo/main/assets/images/your-image.png)
 
